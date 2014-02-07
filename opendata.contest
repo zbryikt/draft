@@ -1,0 +1,67 @@
+school finder: http://home.rm.com/schoolfinder/HowItWorks.aspx
+運用教育部, OFSTED 的資料, 及學校主動提供的資料來分析哪所學校適合你的小孩
+包括: 學生表現, 國家調查報告, 人數, 各類型的教師人數, 人數上限, 你居住區在該學校的人數
+(by rm education - they sells mainly technology product for education, such as computer or software
+                 - they also provide support and service for that)
+
+https://opencorporates.com/companies/us_wa/600413485/network
+
+"award winner in the OpenDataChallenge"
+This is an incredibly powerful and useful app. It combines information collected by scraping the web with Open Data from government bodies, with a new feature for crowdsourcing. It makes accessing government information about companies trivial. This tool is invaluable for those who want to find out more about what it is that corporations are doing. It is a remarkable step forward for transparency and accountability. I could play with this thing for days
+
+
+
+命名 - 政府未公開 - 算名字程式
+  資料自行搜集統計
+
+浪費掉的 200 億元
+http://www.chinatimes.com/newspapers/20140207000890-260109
+
+404notfound
+
+http://www.crimemapping.com/map.aspx?aid=7df2e04a-2be0-4b5e-90af-ef692ac35cbe
+https://www.crimereports.com/
+http://spotcrime.com/
+http://www.trulia.com/crime
+
+
+地圖資訊 - run by words, 萌典地圖畫字
+開店設點分析
+http://www.foundi.info/
+zillow
+http://adoptahydrant.org/
+
+dontflush.me
+http://commons.codeforamerica.org/apps/dontflushme
+港邊的居民排放過多廢水時的警告, 叫大家少製造一些廢水
+
+smart traveler
+  http://commons.codeforamerica.org/apps/smart-traveler
+  disseminate information about short-term conditions, generally within a particular country, that pose imminent risks to the security of U.S. citizens. Natural disasters, terrorist attacks, coups, anniversaries of terrorist events, election-related demonstrations or violence, and high-profile events such as international conferences or regional sports events are examples of conditions that might generate a Travel Alert. - See more at: http://commons.codeforamerica.org/apps/smart-traveler#sthash.gqFBxe06.dpuf
+
+http://mrbus.tw/
+火車時刻表, ubike, 公車資訊, zillow
+
+5 star open data
+my 6 open data guideline
+  free of charge, open licesed, no properitary format, well-documented, revision, ?
+
+開放資料: 開放與非開放 (未來開放)
+  政府有的與政府沒有的
+  資料與中介資料
+  群眾智慧
+
+
+搜集 -> 整理 -> 授權 -> 釋出 -> 呈現 -> 加值 -> 訂正
+
+國土利用調查 ->            ->   購買   -> API  -> 排序      -> 輔助工具 -> 
+地質調查     -> 地理資訊站 ->   免費   -> 圖磚 -> visualize -> 統計分析 -> 回報錯誤
+土地分區變更 ->            -> 限制用途 -> raw  -> 搜尋      -> 討論平台 -> 
+
+搜集: 尚未開放的資料的搜集 -> 比方說地標 -> 成為開放資料提供者, 甚至與政府合作
+整理: 統一整理來的資料, 架構性的規劃 -> 咨詢顧問? 專業提供者
+授權: 授權中心, 管理開放資料的平台, 金流, 資訊流, 帳號, 使用量, etc
+釋出: 釋出不同的形式. 與平台一起?
+呈現: 單純資料的展示與查詢. 像是公車資訊app, 火車時刻表 app
+加值: 路線規劃(根據地圖,時刻表); 房價分析(高低點統計, 交易類型區是統計),展店分析 等等 
+訂正: 提供資料訂正的服務 (google map maker?)
